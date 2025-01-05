@@ -82,9 +82,10 @@
 <div align="center">
     <h1>Contact me in</h1>
     <div align="center">
-        <a align="left" href="http://sobhan.epizy.com" target="_blank">
-            <img alt="Cover Image" src="https://github.com/user-attachments/assets/69b35053-17b1-48c6-a35b-4d3881a4dd2c"
-                style="max-width: 50%;">
+        <a href="http://sobhan.epizy.com" target="_blank">
+            <img align="left" alt="Cover Image"
+                src="https://github.com/user-attachments/assets/69b35053-17b1-48c6-a35b-4d3881a4dd2c"
+                style="max-width: 30%;">
         </a>
         <a href="https://t.me/d_opa_mine" target="_blank">
             <img alt="Telegram"
