@@ -20,9 +20,9 @@
             <td><img alt="Made with html" src="https://badges.aleen42.com/src/html5.svg"
                     style="max-width: 100%;"><img alt="Made with css" src="https://badges.aleen42.com/src/css3.svg"
                     style="max-width: 100%;"></td>
-            <td><img src="https://img.shields.io/github/stars/Sobhan-SRZA/Machine-Learning-Color-Contrast-Picker?style=flat-square"
+            <td><img src="https://img.shields.io/github/stars/Sobhan-SRZA/Singup-Page?style=flat-square"
                     alt="Stars" style="max-width: 100%;"></td>
-            <td><img src="https://img.shields.io/github/forks/Sobhan-SRZA/Machine-Learning-Color-Contrast-Picker?style=flat-square"
+            <td><img src="https://img.shields.io/github/forks/Sobhan-SRZA/Singup-Page?style=flat-square"
                     alt="Forks" style="max-width: 100%;"></td>
         </tr>
         <tr>
