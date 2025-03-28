@@ -15,6 +15,17 @@
     </thead>
     <tbody>
         <tr>
+            <td><a href="https://github.com/Sobhan-SRZA/Singup-Page">Singup Page</a></td>
+            <td><strong><a href="/Singup-Page"> Click Me to Show You👀 </a></strong></td>
+            <td><img alt="Made with html" src="https://badges.aleen42.com/src/html5.svg"
+                    style="max-width: 100%;"><img alt="Made with css" src="https://badges.aleen42.com/src/css3.svg"
+                    style="max-width: 100%;"></td>
+            <td><img src="https://img.shields.io/github/stars/Sobhan-SRZA/Machine-Learning-Color-Contrast-Picker?style=flat-square"
+                    alt="Stars" style="max-width: 100%;"></td>
+            <td><img src="https://img.shields.io/github/forks/Sobhan-SRZA/Machine-Learning-Color-Contrast-Picker?style=flat-square"
+                    alt="Forks" style="max-width: 100%;"></td>
+        </tr>
+        <tr>
             <td><a href="https://github.com/Sobhan-SRZA/Machine-Learning-Color-Contrast-Picker">Machine Learning Color
                     Contrast Picker</a></td>
             <td><strong><a href="/Machine-Learning-Color-Contrast-Picker"> Click Me to Show You👀 </a></strong></td>
