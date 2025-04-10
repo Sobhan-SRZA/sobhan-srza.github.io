@@ -15,6 +15,18 @@
     </thead>
     <tbody>
         <tr>
+            <td><a href="https://github.com/Sobhan-SRZA/API-Response-Viewer">API Response Viewer</a></td>
+            <td><strong><a href="/API-Response-Viewer"> Click Me to Show You👀 </a></strong></td>
+            <td><img alt="Made with javascript" src="https://badges.aleen42.com/src/javascript.svg"
+                    style="max-width: 100%;"><img alt="Made with html" src="https://badges.aleen42.com/src/html5.svg"
+                    style="max-width: 100%;"><img alt="Made with css" src="https://badges.aleen42.com/src/css3.svg"
+                    style="max-width: 100%;"></td>
+            <td><img src="https://img.shields.io/github/stars/Sobhan-SRZA/API-Response-Viewer?style=flat-square"
+                    alt="Stars" style="max-width: 100%;"></td>
+            <td><img src="https://img.shields.io/github/forks/Sobhan-SRZA/API-Response-Viewer?style=flat-square"
+                    alt="Forks" style="max-width: 100%;"></td>
+        </tr>
+        <tr>
             <td><a href="https://github.com/Sobhan-SRZA/Portfolio-ImpressJs">Portfolio ImpressJs</a></td>
             <td><strong><a href="/Portfolio-ImpressJs"> Click Me to Show You👀 </a></strong></td>
             <td><img alt="Made with javascript" src="https://badges.aleen42.com/src/javascript.svg"
