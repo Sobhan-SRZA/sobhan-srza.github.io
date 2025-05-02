@@ -40,7 +40,7 @@
         </tr>
         <tr>
             <td><a href="https://github.com/Sobhan-SRZA/Singup-Page">HomeWork-1</a></td>
-            <td><strong><a href="/Singup-Page"> Click Me to Show You👀 </a></strong></td>
+            <td><strong><a href="/homework-1"> Click Me to Show You👀 </a></strong></td>
             <td><img alt="Made with html" src="https://badges.aleen42.com/src/html5.svg"
                     style="max-width: 100%;"><img alt="Made with css" src="https://badges.aleen42.com/src/css3.svg"
                     style="max-width: 100%;"></td>
@@ -50,8 +50,8 @@
                     alt="Forks" style="max-width: 100%;"></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/Sobhan-SRZA/Singup-Page">HomeWork-2</a></td>
-            <td><strong><a href="/Singup-Page"> Click Me to Show You👀 </a></strong></td>
+            <td><a href="https://github.com/Sobhan-SRZA/homework-1">HomeWork-2</a></td>
+            <td><strong><a href="/homework-2"> Click Me to Show You👀 </a></strong></td>
             <td><img alt="Made with html" src="https://badges.aleen42.com/src/html5.svg"
                     style="max-width: 100%;"><img alt="Made with css" src="https://badges.aleen42.com/src/css3.svg"
                     style="max-width: 100%;"></td>
@@ -62,7 +62,7 @@
         </tr>
         <tr>
             <td><a href="https://github.com/Sobhan-SRZA/Singup-Page">HomeWork-3</a></td>
-            <td><strong><a href="/Singup-Page"> Click Me to Show You👀 </a></strong></td>
+            <td><strong><a href="/homework-3"> Click Me to Show You👀 </a></strong></td>
             <td><img alt="Made with html" src="https://badges.aleen42.com/src/html5.svg"
                     style="max-width: 100%;"><img alt="Made with css" src="https://badges.aleen42.com/src/css3.svg"
                     style="max-width: 100%;"><img alt="Made with javascript" src="https://badges.aleen42.com/src/javascript.svg"
