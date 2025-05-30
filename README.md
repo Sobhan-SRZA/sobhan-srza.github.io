@@ -251,8 +251,4 @@
     <img alt="Team Discord Account" src="https://discord.c99.nl/widget/theme-1/986314682547716117.png" />
    </a>
   </div>
-
- </div>
-
 </div>
-<br>
