@@ -24,7 +24,7 @@
     <td><a href="https://github.com/Sobhan-SRZA/jalali-datepicker-widget">jalali-datepicker-widget</a></td>
     <td><a href="https://sobhan-srza.github.io/jalali-datepicker-widget"> Click Me to Show You👀 </a></td>
     <td><code>A lightweight and simple Jalali (Shamsi/Persian) date picker widget built with HTML, CSS, JavaScript (with jQuery and PersianDate).</code></td>
-    <td><img src="https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/main/images/html.svg" alt="Used HTML" style="max-width: 100%;"><img src="https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/main/images/css.svg" alt="Used CSS" style="max-width: 100%;"><img src="https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/main/images/javascript.svg" alt="Used JavaScript" style="max-width: 100%;"></td>
+    <td><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//html.svg" alt="Used HTML" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//css.svg" alt="Used CSS" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//javascript.svg" alt="Used JavaScript" style="max-width: 100%;"></td>
     <td><code>none</code></td>
     <td><img src="https://img.shields.io/github/stars/Sobhan-SRZA/jalali-datepicker-widget?style=flat-square" alt="Stars" style="max-width: 100%;"></td>
     <td><img src="https://img.shields.io/github/forks/Sobhan-SRZA/jalali-datepicker-widget?style=flat-square" alt="Forks" style="max-width: 100%;"></td>
@@ -35,7 +35,7 @@
     <td><a href="https://github.com/Sobhan-SRZA/custom-image-cropper">custom-image-cropper</a></td>
     <td><a href="https://sobhan-srza.github.io/custom-image-cropper"> Click Me to Show You👀 </a></td>
     <td><code>A customizable client-side image cropper with drag, resize, and download support. Fully responsive and supports both desktop and mobile devices.</code></td>
-    <td><img src="https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/main/images/html.svg" alt="Used HTML" style="max-width: 100%;"><img src="https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/main/images/css.svg" alt="Used CSS" style="max-width: 100%;"><img src="https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/main/images/javascript.svg" alt="Used JavaScript" style="max-width: 100%;"></td>
+    <td><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//html.svg" alt="Used HTML" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//css.svg" alt="Used CSS" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//javascript.svg" alt="Used JavaScript" style="max-width: 100%;"></td>
     <td><code>none</code></td>
     <td><img src="https://img.shields.io/github/stars/Sobhan-SRZA/custom-image-cropper?style=flat-square" alt="Stars" style="max-width: 100%;"></td>
     <td><img src="https://img.shields.io/github/forks/Sobhan-SRZA/custom-image-cropper?style=flat-square" alt="Forks" style="max-width: 100%;"></td>
@@ -46,7 +46,7 @@
     <td><a href="https://github.com/Sobhan-SRZA/API-Response-Viewer">API-Response-Viewer</a></td>
     <td><a href="https://sobhan-srza.github.io/API-Response-Viewer"> Click Me to Show You👀 </a></td>
     <td><code>Instantly visualize API responses with JSON formatting and embedded image display. Perfect for developers testing REST APIs.</code></td>
-    <td><img src="https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/main/images/html.svg" alt="Used HTML" style="max-width: 100%;"><img src="https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/main/images/css.svg" alt="Used CSS" style="max-width: 100%;"><img src="https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/main/images/javascript.svg" alt="Used JavaScript" style="max-width: 100%;"></td>
+    <td><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//html.svg" alt="Used HTML" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//css.svg" alt="Used CSS" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//javascript.svg" alt="Used JavaScript" style="max-width: 100%;"></td>
     <td><code>none</code></td>
     <td><img src="https://img.shields.io/github/stars/Sobhan-SRZA/API-Response-Viewer?style=flat-square" alt="Stars" style="max-width: 100%;"></td>
     <td><img src="https://img.shields.io/github/forks/Sobhan-SRZA/API-Response-Viewer?style=flat-square" alt="Forks" style="max-width: 100%;"></td>
@@ -57,7 +57,7 @@
     <td><a href="https://github.com/Sobhan-SRZA/Homework-1">Homework-1</a></td>
     <td><a href="https://sobhan-srza.github.io/Homework-1"> Click Me to Show You👀 </a></td>
     <td><code> صفحه ثبت نام به زبان فارسی</code></td>
-    <td><img src="https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/main/images/html.svg" alt="Used HTML" style="max-width: 100%;"><img src="https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/main/images/css.svg" alt="Used CSS" style="max-width: 100%;"></td>
+    <td><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//html.svg" alt="Used HTML" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//css.svg" alt="Used CSS" style="max-width: 100%;"></td>
     <td><code>none</code></td>
     <td><img src="https://img.shields.io/github/stars/Sobhan-SRZA/Homework-1?style=flat-square" alt="Stars" style="max-width: 100%;"></td>
     <td><img src="https://img.shields.io/github/forks/Sobhan-SRZA/Homework-1?style=flat-square" alt="Forks" style="max-width: 100%;"></td>
@@ -68,7 +68,7 @@
     <td><a href="https://github.com/Sobhan-SRZA/Homework-2">Homework-2</a></td>
     <td><a href="https://sobhan-srza.github.io/Homework-2"> Click Me to Show You👀 </a></td>
     <td><code>وبسایتی برای نمونه و امتحان کردن چیزای جدید از یاد گرفته ها. دارای فوتر و هدر و بخش سرچ و انتخاب زبان و همچنین توضیحات اضافه.</code></td>
-    <td><img src="https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/main/images/html.svg" alt="Used HTML" style="max-width: 100%;"><img src="https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/main/images/css.svg" alt="Used CSS" style="max-width: 100%;"></td>
+    <td><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//html.svg" alt="Used HTML" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//css.svg" alt="Used CSS" style="max-width: 100%;"></td>
     <td><code>none</code></td>
     <td><img src="https://img.shields.io/github/stars/Sobhan-SRZA/Homework-2?style=flat-square" alt="Stars" style="max-width: 100%;"></td>
     <td><img src="https://img.shields.io/github/forks/Sobhan-SRZA/Homework-2?style=flat-square" alt="Forks" style="max-width: 100%;"></td>
@@ -79,7 +79,7 @@
     <td><a href="https://github.com/Sobhan-SRZA/Homework-3">Homework-3</a></td>
     <td><a href="https://sobhan-srza.github.io/Homework-3"> Click Me to Show You👀 </a></td>
     <td><code>یک صفحه لاگین و ثبت نام  و انتخاب محصول و نمایش جمع مبالغ و انجام ریسپانسیو</code></td>
-    <td><img src="https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/main/images/html.svg" alt="Used HTML" style="max-width: 100%;"><img src="https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/main/images/css.svg" alt="Used CSS" style="max-width: 100%;"><img src="https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/main/images/javascript.svg" alt="Used JavaScript" style="max-width: 100%;"></td>
+    <td><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//html.svg" alt="Used HTML" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//css.svg" alt="Used CSS" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//javascript.svg" alt="Used JavaScript" style="max-width: 100%;"></td>
     <td><code>none</code></td>
     <td><img src="https://img.shields.io/github/stars/Sobhan-SRZA/Homework-3?style=flat-square" alt="Stars" style="max-width: 100%;"></td>
     <td><img src="https://img.shields.io/github/forks/Sobhan-SRZA/Homework-3?style=flat-square" alt="Forks" style="max-width: 100%;"></td>
@@ -90,7 +90,7 @@
     <td><a href="https://github.com/Sobhan-SRZA/Homework-4">Homework-4</a></td>
     <td><a href="https://sobhan-srza.github.io/Homework-4"> Click Me to Show You👀 </a></td>
     <td><code>انجام پروزه تمرینی از روی عکس</code></td>
-    <td><img src="https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/main/images/html.svg" alt="Used HTML" style="max-width: 100%;"><img src="https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/main/images/css.svg" alt="Used CSS" style="max-width: 100%;"></td>
+    <td><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//html.svg" alt="Used HTML" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//css.svg" alt="Used CSS" style="max-width: 100%;"></td>
     <td><code>none</code></td>
     <td><img src="https://img.shields.io/github/stars/Sobhan-SRZA/Homework-4?style=flat-square" alt="Stars" style="max-width: 100%;"></td>
     <td><img src="https://img.shields.io/github/forks/Sobhan-SRZA/Homework-4?style=flat-square" alt="Forks" style="max-width: 100%;"></td>
@@ -101,7 +101,7 @@
     <td><a href="https://github.com/Sobhan-SRZA/Homework-5">Homework-5</a></td>
     <td><a href="https://sobhan-srza.github.io/Homework-5"> Click Me to Show You👀 </a></td>
     <td><code>تمرین طراحی وب - صفحه‌ی معرفی ساده</code></td>
-    <td><img src="https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/main/images/html.svg" alt="Used HTML" style="max-width: 100%;"><img src="https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/main/images/css.svg" alt="Used CSS" style="max-width: 100%;"></td>
+    <td><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//html.svg" alt="Used HTML" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//css.svg" alt="Used CSS" style="max-width: 100%;"></td>
     <td><code>none</code></td>
     <td><img src="https://img.shields.io/github/stars/Sobhan-SRZA/Homework-5?style=flat-square" alt="Stars" style="max-width: 100%;"></td>
     <td><img src="https://img.shields.io/github/forks/Sobhan-SRZA/Homework-5?style=flat-square" alt="Forks" style="max-width: 100%;"></td>
@@ -112,7 +112,7 @@
     <td><a href="https://github.com/Sobhan-SRZA/Homework-6">Homework-6</a></td>
     <td><a href="https://sobhan-srza.github.io/Homework-6"> Click Me to Show You👀 </a></td>
     <td><code>تمرین طراحی سایت - فرم تماس</code></td>
-    <td><img src="https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/main/images/html.svg" alt="Used HTML" style="max-width: 100%;"><img src="https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/main/images/css.svg" alt="Used CSS" style="max-width: 100%;"></td>
+    <td><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//html.svg" alt="Used HTML" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//css.svg" alt="Used CSS" style="max-width: 100%;"></td>
     <td><code>none</code></td>
     <td><img src="https://img.shields.io/github/stars/Sobhan-SRZA/Homework-6?style=flat-square" alt="Stars" style="max-width: 100%;"></td>
     <td><img src="https://img.shields.io/github/forks/Sobhan-SRZA/Homework-6?style=flat-square" alt="Forks" style="max-width: 100%;"></td>
@@ -123,7 +123,7 @@
     <td><a href="https://github.com/Sobhan-SRZA/Machine-Learning-Color-Contrast-Picker">Machine-Learning-Color-Contrast-Picker</a></td>
     <td><a href="https://sobhan-srza.github.io/Machine-Learning-Color-Contrast-Picker"> Click Me to Show You👀 </a></td>
     <td><code>An AI learning machine with choosing best color text for random background colors.</code></td>
-    <td><img src="https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/main/images/css.svg" alt="Used CSS" style="max-width: 100%;"><img src="https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/main/images/html.svg" alt="Used HTML" style="max-width: 100%;"><img src="https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/main/images/javascript.svg" alt="Used JavaScript" style="max-width: 100%;"></td>
+    <td><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//css.svg" alt="Used CSS" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//html.svg" alt="Used HTML" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//javascript.svg" alt="Used JavaScript" style="max-width: 100%;"></td>
     <td><code>none</code></td>
     <td><img src="https://img.shields.io/github/stars/Sobhan-SRZA/Machine-Learning-Color-Contrast-Picker?style=flat-square" alt="Stars" style="max-width: 100%;"></td>
     <td><img src="https://img.shields.io/github/forks/Sobhan-SRZA/Machine-Learning-Color-Contrast-Picker?style=flat-square" alt="Forks" style="max-width: 100%;"></td>
@@ -134,7 +134,7 @@
     <td><a href="https://github.com/Sobhan-SRZA/Music-Player-In-Website">Music-Player-In-Website</a></td>
     <td><a href="https://sobhan-srza.github.io/Music-Player-In-Website"> Click Me to Show You👀 </a></td>
     <td><code>Simple player for website using html, css and javascript.</code></td>
-    <td><img src="https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/main/images/css.svg" alt="Used CSS" style="max-width: 100%;"><img src="https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/main/images/html.svg" alt="Used HTML" style="max-width: 100%;"><img src="https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/main/images/javascript.svg" alt="Used JavaScript" style="max-width: 100%;"></td>
+    <td><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//css.svg" alt="Used CSS" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//html.svg" alt="Used HTML" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//javascript.svg" alt="Used JavaScript" style="max-width: 100%;"></td>
     <td><code>none</code></td>
     <td><img src="https://img.shields.io/github/stars/Sobhan-SRZA/Music-Player-In-Website?style=flat-square" alt="Stars" style="max-width: 100%;"></td>
     <td><img src="https://img.shields.io/github/forks/Sobhan-SRZA/Music-Player-In-Website?style=flat-square" alt="Forks" style="max-width: 100%;"></td>
@@ -145,7 +145,7 @@
     <td><a href="https://github.com/Sobhan-SRZA/Personal-Website">Personal-Website</a></td>
     <td><a href="https://sobhan-srza.github.io/Personal-Website"> Click Me to Show You👀 </a></td>
     <td><code>This is simple personal website with github template.</code></td>
-    <td><img src="https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/main/images/css.svg" alt="Used CSS" style="max-width: 100%;"><img src="https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/main/images/html.svg" alt="Used HTML" style="max-width: 100%;"></td>
+    <td><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//css.svg" alt="Used CSS" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//html.svg" alt="Used HTML" style="max-width: 100%;"></td>
     <td><code>none</code></td>
     <td><img src="https://img.shields.io/github/stars/Sobhan-SRZA/Personal-Website?style=flat-square" alt="Stars" style="max-width: 100%;"></td>
     <td><img src="https://img.shields.io/github/forks/Sobhan-SRZA/Personal-Website?style=flat-square" alt="Forks" style="max-width: 100%;"></td>
@@ -156,7 +156,7 @@
     <td><a href="https://github.com/Sobhan-SRZA/Portfolio">Portfolio</a></td>
     <td><a href="https://sobhan-srza.github.io/Portfolio"> Click Me to Show You👀 </a></td>
     <td><code>My portfolio webpage.</code></td>
-    <td><img src="https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/main/images/css.svg" alt="Used CSS" style="max-width: 100%;"><img src="https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/main/images/html.svg" alt="Used HTML" style="max-width: 100%;"><img src="https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/main/images/javascript.svg" alt="Used JavaScript" style="max-width: 100%;"></td>
+    <td><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//css.svg" alt="Used CSS" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//html.svg" alt="Used HTML" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//javascript.svg" alt="Used JavaScript" style="max-width: 100%;"></td>
     <td><code>none</code></td>
     <td><img src="https://img.shields.io/github/stars/Sobhan-SRZA/Portfolio?style=flat-square" alt="Stars" style="max-width: 100%;"></td>
     <td><img src="https://img.shields.io/github/forks/Sobhan-SRZA/Portfolio?style=flat-square" alt="Forks" style="max-width: 100%;"></td>
@@ -167,7 +167,7 @@
     <td><a href="https://github.com/Sobhan-SRZA/Portfolio-ImpressJs">Portfolio-ImpressJs</a></td>
     <td><a href="https://sobhan-srza.github.io/Portfolio-ImpressJs"> Click Me to Show You👀 </a></td>
     <td><code>A portfolio webpage powered by impress.js. (This web page is not good)</code></td>
-    <td><img src="https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/main/images/css.svg" alt="Used CSS" style="max-width: 100%;"><img src="https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/main/images/html.svg" alt="Used HTML" style="max-width: 100%;"><img src="https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/main/images/javascript.svg" alt="Used JavaScript" style="max-width: 100%;"></td>
+    <td><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//css.svg" alt="Used CSS" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//html.svg" alt="Used HTML" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//javascript.svg" alt="Used JavaScript" style="max-width: 100%;"></td>
     <td><code>none</code></td>
     <td><img src="https://img.shields.io/github/stars/Sobhan-SRZA/Portfolio-ImpressJs?style=flat-square" alt="Stars" style="max-width: 100%;"></td>
     <td><img src="https://img.shields.io/github/forks/Sobhan-SRZA/Portfolio-ImpressJs?style=flat-square" alt="Forks" style="max-width: 100%;"></td>
@@ -178,7 +178,7 @@
     <td><a href="https://github.com/Sobhan-SRZA/Simple-Website-Using-React">Simple-Website-Using-React</a></td>
     <td><a href="https://sobhan-srza.github.io/Simple-Website-Using-React"> Click Me to Show You👀 </a></td>
     <td><code>This is my first project in react.</code></td>
-    <td><img src="https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/main/images/css.svg" alt="Used CSS" style="max-width: 100%;"><img src="https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/main/images/html.svg" alt="Used HTML" style="max-width: 100%;"><img src="https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/main/images/javascript.svg" alt="Used JavaScript" style="max-width: 100%;"></td>
+    <td><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//css.svg" alt="Used CSS" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//html.svg" alt="Used HTML" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//javascript.svg" alt="Used JavaScript" style="max-width: 100%;"></td>
     <td><code>none</code></td>
     <td><img src="https://img.shields.io/github/stars/Sobhan-SRZA/Simple-Website-Using-React?style=flat-square" alt="Stars" style="max-width: 100%;"></td>
     <td><img src="https://img.shields.io/github/forks/Sobhan-SRZA/Simple-Website-Using-React?style=flat-square" alt="Forks" style="max-width: 100%;"></td>

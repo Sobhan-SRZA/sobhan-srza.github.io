@@ -57,8 +57,8 @@ async function generateMarkdownTable(repos, imagesPath) {
 async function main() {
   try {
     const repos = JSON.parse(fs.readFileSync("./projects.json"));
-    console.log(`repositorise size: ${repos.length}`);
-    const githubWebsitesMarkdownTable = await generateMarkdownTable(repos.filter(a => a.languages.includes("HTML")), "https://github.com/Sobhan-SRZA/Sobhan-SRZA/blob/main/images", true);
+    console.log(`check repositorise size: ${repos.length}`);
+    const githubWebsitesMarkdownTable = await generateMarkdownTable(repos.filter(a => a.languages.includes("HTML")), "https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images/");
     fs.writeFileSync('README.md', `
 <h3>sobhan-srza.github.io</h3>
 <p>All list of website I build.</p>
@@ -134,6 +134,8 @@ ${githubWebsitesMarkdownTable}
   </div>
 
  </div>`);
+    console.log("\n");
+    console.log(`loaded repositorise size: ${repos.filter(a => a.languages.includes("HTML")).length}`);
     console.log('README.md has successfully created.');
   } catch (error) {
     console.error('get an error:', error);
