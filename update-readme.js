@@ -1,5 +1,4 @@
 import fs from 'fs';
-import fetch from 'node-fetch';
 
 async function generateMarkdownTable(repos, imagesPath) {
   let count = 0;
