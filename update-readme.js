@@ -4,6 +4,9 @@ async function generateMarkdownTable(repos, imagesPath) {
   let count = 0;
   const table = () => {
     return repos?.map((repo) => {
+      if (repo.private)
+        return;
+      
       const langBadges = repo.languages
         ? repo.languages.map(a => {
           const language = encodeURIComponent(a);
