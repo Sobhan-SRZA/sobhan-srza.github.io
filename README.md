@@ -87,6 +87,17 @@
 
 <tr>
     <td><strong>7</strong></td>
+    <td><a href="https://github.com/Sobhan-SRZA/My-ReactJs-Curse-Homeworks">My-ReactJs-Curse-Homeworks</a></td>
+    <td><a href="https://sobhan-srza.github.io/My-ReactJs-Curse-Homeworks"> Click Me to Show You👀 </a></td>
+    <td><code>دارم ریکت جی اس یاد میگیرم و اینجا پروژه های تمرینی خودم رو میزارم.</code></td>
+    <td><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//javascript.svg" alt="Used JavaScript" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//typescript.svg" alt="Used TypeScript" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//html.svg" alt="Used HTML" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//css.svg" alt="Used CSS" style="max-width: 100%;"></td>
+    <td><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//node.js.svg" alt="Used Node.js" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//npm.svg" alt="Used NPM" style="max-width: 100%;"></td>
+    <td><img src="https://img.shields.io/github/stars/Sobhan-SRZA/My-ReactJs-Curse-Homeworks?style=flat-square" alt="Stars" style="max-width: 100%;"></td>
+    <td><img src="https://img.shields.io/github/forks/Sobhan-SRZA/My-ReactJs-Curse-Homeworks?style=flat-square" alt="Forks" style="max-width: 100%;"></td>
+</tr>
+
+<tr>
+    <td><strong>8</strong></td>
     <td><a href="https://github.com/Sobhan-SRZA/Homework-1">Homework-1</a></td>
     <td><a href="https://sobhan-srza.github.io/Homework-1"> Click Me to Show You👀 </a></td>
     <td><code> صفحه ثبت نام به زبان فارسی</code></td>
@@ -97,7 +108,7 @@
 </tr>
 
 <tr>
-    <td><strong>8</strong></td>
+    <td><strong>9</strong></td>
     <td><a href="https://github.com/Sobhan-SRZA/Homework-2">Homework-2</a></td>
     <td><a href="https://sobhan-srza.github.io/Homework-2"> Click Me to Show You👀 </a></td>
     <td><code>وبسایتی برای نمونه و امتحان کردن چیزای جدید از یاد گرفته ها. دارای فوتر و هدر و بخش سرچ و انتخاب زبان و همچنین توضیحات اضافه.</code></td>
@@ -108,7 +119,7 @@
 </tr>
 
 <tr>
-    <td><strong>9</strong></td>
+    <td><strong>10</strong></td>
     <td><a href="https://github.com/Sobhan-SRZA/Homework-3">Homework-3</a></td>
     <td><a href="https://sobhan-srza.github.io/Homework-3"> Click Me to Show You👀 </a></td>
     <td><code>یک صفحه لاگین و ثبت نام  و انتخاب محصول و نمایش جمع مبالغ و انجام ریسپانسیو</code></td>
@@ -119,7 +130,7 @@
 </tr>
 
 <tr>
-    <td><strong>10</strong></td>
+    <td><strong>11</strong></td>
     <td><a href="https://github.com/Sobhan-SRZA/Homework-4">Homework-4</a></td>
     <td><a href="https://sobhan-srza.github.io/Homework-4"> Click Me to Show You👀 </a></td>
     <td><code>انجام پروزه تمرینی از روی عکس</code></td>
@@ -130,7 +141,7 @@
 </tr>
 
 <tr>
-    <td><strong>11</strong></td>
+    <td><strong>12</strong></td>
     <td><a href="https://github.com/Sobhan-SRZA/Homework-5">Homework-5</a></td>
     <td><a href="https://sobhan-srza.github.io/Homework-5"> Click Me to Show You👀 </a></td>
     <td><code>تمرین طراحی وب - صفحه‌ی معرفی ساده</code></td>
@@ -141,7 +152,7 @@
 </tr>
 
 <tr>
-    <td><strong>12</strong></td>
+    <td><strong>13</strong></td>
     <td><a href="https://github.com/Sobhan-SRZA/Homework-6">Homework-6</a></td>
     <td><a href="https://sobhan-srza.github.io/Homework-6"> Click Me to Show You👀 </a></td>
     <td><code>تمرین طراحی سایت - فرم تماس</code></td>
@@ -152,7 +163,7 @@
 </tr>
 
 <tr>
-    <td><strong>13</strong></td>
+    <td><strong>14</strong></td>
     <td><a href="https://github.com/Sobhan-SRZA/Arta-Omran-Varaq">Arta-Omran-Varaq</a></td>
     <td><a href="https://sobhan-srza.github.io/Arta-Omran-Varaq"> Click Me to Show You👀 </a></td>
     <td><code>وبسایت رسمی شرکت آرتا عمران ورق اردبیل - شرکت سوله سازی</code></td>
@@ -163,7 +174,7 @@
 </tr>
 
 <tr>
-    <td><strong>14</strong></td>
+    <td><strong>15</strong></td>
     <td><a href="https://github.com/Sobhan-SRZA/Machine-Learning-Color-Contrast-Picker">Machine-Learning-Color-Contrast-Picker</a></td>
     <td><a href="https://sobhan-srza.github.io/Machine-Learning-Color-Contrast-Picker"> Click Me to Show You👀 </a></td>
     <td><code>An AI learning machine with choosing best color text for random background colors.</code></td>
@@ -174,7 +185,7 @@
 </tr>
 
 <tr>
-    <td><strong>15</strong></td>
+    <td><strong>16</strong></td>
     <td><a href="https://github.com/Sobhan-SRZA/Music-Player-In-Website">Music-Player-In-Website</a></td>
     <td><a href="https://sobhan-srza.github.io/Music-Player-In-Website"> Click Me to Show You👀 </a></td>
     <td><code>Simple player for website using html, css and javascript.</code></td>
@@ -185,7 +196,7 @@
 </tr>
 
 <tr>
-    <td><strong>16</strong></td>
+    <td><strong>17</strong></td>
     <td><a href="https://github.com/Sobhan-SRZA/Online-Shop">Online-Shop</a></td>
     <td><a href="https://sobhan-srza.github.io/Online-Shop"> Click Me to Show You👀 </a></td>
     <td><code>A full-stack e-commerce web application, This project demonstrates modern web development practices, including RESTful API design, TypeScript integration, and database management with Prisma and SQLite. It includes core e-commerce features such as product management, user authentication, and a shopping cart.</code></td>
@@ -196,7 +207,7 @@
 </tr>
 
 <tr>
-    <td><strong>17</strong></td>
+    <td><strong>18</strong></td>
     <td><a href="https://github.com/Sobhan-SRZA/Personal-Website">Personal-Website</a></td>
     <td><a href="https://sobhan-srza.github.io/Personal-Website"> Click Me to Show You👀 </a></td>
     <td><code>This is simple personal website with github template.</code></td>
@@ -207,7 +218,7 @@
 </tr>
 
 <tr>
-    <td><strong>18</strong></td>
+    <td><strong>19</strong></td>
     <td><a href="https://github.com/Sobhan-SRZA/Portfolio">Portfolio</a></td>
     <td><a href="https://sobhan-srza.github.io/Portfolio"> Click Me to Show You👀 </a></td>
     <td><code>Portfolio of Mr. Sinre (Sobhan-SRZA) - Developer, content creator, and Discord bot enthusiast. Discover my biography, projects, and social profiles.</code></td>
@@ -218,7 +229,7 @@
 </tr>
 
 <tr>
-    <td><strong>19</strong></td>
+    <td><strong>20</strong></td>
     <td><a href="https://github.com/Sobhan-SRZA/Portfolio-ImpressJs">Portfolio-ImpressJs</a></td>
     <td><a href="https://sobhan-srza.github.io/Portfolio-ImpressJs"> Click Me to Show You👀 </a></td>
     <td><code>A portfolio webpage powered by impress.js. (This web page is not good)</code></td>
@@ -229,7 +240,7 @@
 </tr>
 
 <tr>
-    <td><strong>20</strong></td>
+    <td><strong>21</strong></td>
     <td><a href="https://github.com/Sobhan-SRZA/Simple-Website-Using-React">Simple-Website-Using-React</a></td>
     <td><a href="https://sobhan-srza.github.io/Simple-Website-Using-React"> Click Me to Show You👀 </a></td>
     <td><code>This is my first project in react.</code></td>
