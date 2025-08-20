@@ -1,6 +1,8 @@
 name: Scheduled README Update
 
 on:
+  push:
+    branches: ["main"]
   schedule:
     - cron: '0 * * * *' 
   workflow_dispatch:
