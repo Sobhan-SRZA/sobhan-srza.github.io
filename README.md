@@ -35,7 +35,7 @@
     <td><a href="https://github.com/Sobhan-SRZA/image-gallery">image-gallery</a></td>
     <td><a href="https://sobhan-srza.github.io/image-gallery"> Click Me to Show You👀 </a></td>
     <td><code>گالری تصاویر با قابلیت نمایش تمام‌صفحه و سواپ.</code></td>
-    <td><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//html.svg" alt="Used HTML" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//css.svg" alt="Used CSS" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//javascript.svg" alt="Used JavaScript" style="max-width: 100%;"></td>
+    <td><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//html.svg" alt="Used HTML" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images//css.svg" alt="Used CSS" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images/javascript.svg" alt="Used JavaScript" style="max-width: 100%;"></td>
     <td><code>none</code></td>
     <td><img src="https://img.shields.io/github/stars/Sobhan-SRZA/image-gallery?style=flat-square" alt="Stars" style="max-width: 100%;"></td>
     <td><img src="https://img.shields.io/github/forks/Sobhan-SRZA/image-gallery?style=flat-square" alt="Forks" style="max-width: 100%;"></td>
