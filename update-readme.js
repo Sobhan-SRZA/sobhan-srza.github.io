@@ -19,10 +19,10 @@ ${repositorise}
 
 I"m open for collaboration or questions! Reach me via:
 
-- **Email:** [sobhan@example.com](mailto:sobhan@example.com)
+- **Email:** [sobhan.rasoulzadeh.asl@gmail.com](mailto:sobhan.rasoulzadeh.asl@gmail.com)
 - **GitHub:** [Sobhan-SRZA](https://github.com/Sobhan-SRZA)
 - **Portfolio:** [sobhan-srza.github.io](https://sobhan-srza.github.io)
-- **Discord:** \`Sobhan-SRZA#1234\`
+- **Discord:** \`mr.sinre\`
 
 ---
 
