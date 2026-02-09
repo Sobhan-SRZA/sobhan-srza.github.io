@@ -84,7 +84,7 @@ async function main() {
     }
 
     const repos = await check_projects();
-    const has_page_repos = repos.filter(a => a.languages.includes("HTML"));
+    const has_page_repos = repos.filter(a => a.languages?.includes("HTML"));
     console.log(`check repositorise size: ${repos.length}`);
 
     const markdownTable = await generateMarkdownTable(has_page_repos, "https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/4c697854a80e5e99324c04eb000f7d2cd53737ae/images/");
