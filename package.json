@@ -2,7 +2,7 @@
   "name": "sobhan-srza.github.io",
   "version": "1.0.0",
   "description": "<h3>sobhan-srza.github.io</h3>\r <p>All list of website I build.</p>",
-  "main": "generateReposTable.js",
+  "main": "update-readme.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
