@@ -27,7 +27,7 @@ jobs:
         run: npm install node-fetch @octokit/rest fs
       
       - name: Run update script
-        run: node update-readme.js
+        run: node .
 
       - name: Commit and push changes (only if changed)
         run: |
