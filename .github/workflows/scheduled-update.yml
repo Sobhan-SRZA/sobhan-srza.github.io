@@ -2,9 +2,13 @@ name: Scheduled README Update
 
 on:
   push:
-    branches: ["main"]
+    branches: [ "main" ]
+    paths:
+      - '**'
+      
   schedule:
-    - cron: '0 * * * *' 
+    - cron: '30 20 * * *' 
+    
   workflow_dispatch:
 
 jobs:
@@ -24,17 +28,18 @@ jobs:
       
       - name: Run update script
         run: node update-readme.js
-        
-      - name: Commit and push changes
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git add README.md
-          if git diff --cached --quiet; then
-            echo "No changes detected. Skipping commit."
 
-          else
-            git commit -m "Auto-update README [Scheduled]"
-            git push
-            
-          fi
+      - name: Commit and push changes (only if changed)
+        run: |
+         git config user.name "GitHub Actions"
+         git config user.email "actions@github.com"
+
+         # Check if README.md actually changed
+         if git diff --quiet README.md; then
+          echo "No changes detected. Skipping commit."
+          exit 0
+          
+         fi # Finishes the if statement 
+ 
+         git add README.md
+         git commit -m "Auto-update Readme"
