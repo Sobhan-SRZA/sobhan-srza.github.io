@@ -21,7 +21,7 @@ I"m open for collaboration or questions! Reach me via:
 
 - **Email:** [sobhan.rasoulzadeh.asl@gmail.com](mailto:sobhan.rasoulzadeh.asl@gmail.com)
 - **GitHub:** [Sobhan-SRZA](https://github.com/Sobhan-SRZA)
-- **Portfolio:** [sobhan-srza.github.io](https://sobhan-srza.github.io)
+- **Portfolio:** [srza.ir](https://srza.ir)
 - **Discord:** \`mr.sinre\`
 
 ---
@@ -48,21 +48,21 @@ async function generateMarkdownTable(repos, imagesPath) {
     const langBadges = repo.languages
       ? repo.languages.map(a => {
         const language = encodeURIComponent(a);
-        return `![Used ${language}](${imagesPath}/${language.toLowerCase()}.svg)`
+        return `![Used ${language}](${imagesPath}/${language.toLowerCase().replaceAll(" ", "")}.svg)`
       }).join(" ")
       : "`none`";
 
     const techBadges = repo.technologies
       ? repo.technologies.map(a => {
         const technology = encodeURIComponent(a);
-        return `[!Used ${technology}](${imagesPath}/${technology.toLowerCase()}.svg)`;
+        return `[!Used ${technology}](${imagesPath}/${technology.toLowerCase().replaceAll(" ", "")}.svg)`;
       }).join(" ")
       : "`none`";
 
     const starsBadge = repo.private ? "`none`" : `![Stars](https://img.shields.io/github/stars/${repo.organization ?? repo.owner}/${repo.name}?style=flat-square)`;
     const forksBadge = repo.private ? "`none`" : `![Forks](https://img.shields.io/github/forks/${repo.organization ?? repo.owner}/${repo.name}?style=flat-square)`;
 
-    table.push(`| ${++count} | [${repo.name}](${repo.url}) |[👀 View](https://sobhan-srza.github.io/${repo.name}) | \`${(repo.description_en || repo.description)}\` | ${langBadges} | ${techBadges} | ${starsBadge} | ${forksBadge} |`);
+    table.push(`| ${++count} | [${repo.name}](${repo.url}) |[👀 Online View](https://sobhan-srza.github.io/${repo.name}) | \`${(repo.description_en || repo.description)}\` | ${langBadges} | ${techBadges} | ${starsBadge} | ${forksBadge} |`);
   });
 
   return table.join("\n");
@@ -93,6 +93,7 @@ async function main() {
 }
 
 void main();
+
 /**
  * @copyright
  * Code by Sobhan-SRZA (mr.sinre) | https://github.com/Sobhan-SRZA
