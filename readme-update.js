@@ -53,9 +53,8 @@ async function generateMarkdownTable(repos, imagesPath) {
       : "`none`";
 
     const techBadges = repo.technologies
-      ? repo.technologies.map(a => {
-        const technology = encodeURIComponent(a);
-        return `[!Used ${technology}](${imagesPath}/${technology.toLowerCase().replaceAll(" ", "")}.svg)`;
+      ? repo.technologies.map(technology => {
+        return `[!Used ${technology}](${imagesPath}/${encodeURIComponent(technology.replaceAll(" ", "").toLowerCase())}.svg)`;
       }).join(" ")
       : "`none`";
 
@@ -80,7 +79,7 @@ async function main() {
     const has_page_repos = repos.filter(a => !a.private && a.languages?.includes("HTML"));
     console.log(`check repositorise size: ${repos.length}`);
 
-    const markdownTable = await generateMarkdownTable(has_page_repos, "https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/refs/heads/main/images/");
+    const markdownTable = await generateMarkdownTable(has_page_repos, "https://raw.githubusercontent.com/Sobhan-SRZA/Sobhan-SRZA/refs/heads/main/images");
     fs.writeFileSync("README.md", readme(markdownTable));
     console.log("\n");
     console.log(`loaded repositorise size: ${has_page_repos.length}`);
