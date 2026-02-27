@@ -41,5 +41,6 @@ jobs:
           exit 0
           
          fi # Finishes the if statement 
- 
+         
          git commit -m "Auto-update Profile Readme"
+         git push
