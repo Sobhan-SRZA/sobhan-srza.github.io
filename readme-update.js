@@ -34,7 +34,7 @@ I"m open for collaboration or questions! Reach me via:
 
 ---
 
-> Made with ❤️ by Sobhan-SRZA
+> Made with ❤️ by [Sobhan-SRZA](https://srza.ir)
     `;
 }
 
@@ -46,22 +46,26 @@ async function generateMarkdownTable(repos, imagesPath) {
   let count = 0;
   repos?.forEach((repo) => {
     const langBadges = repo.languages
-      ? repo.languages.map(a => {
-        const language = encodeURIComponent(a);
-        return `![Used ${language}](${imagesPath}/${language.toLowerCase().replaceAll(" ", "")}.svg)`
+      ? repo.languages.map(language => {
+        const clearLanguage = encodeURIComponent(language.replaceAll(" ", "").toLowerCase());
+        return `![Used ${language}](${imagesPath}/${clearLanguage}.svg)`
       }).join(" ")
+
       : "`none`";
 
     const techBadges = repo.technologies
       ? repo.technologies.map(technology => {
-        return `[!Used ${technology}](${imagesPath}/${encodeURIComponent(technology.replaceAll(" ", "").toLowerCase())}.svg)`;
+        const clearTechnology = encodeURIComponent(technology.replaceAll(" ", "").toLowerCase());
+
+        return `![Used ${technology}](${imagesPath}/${clearTechnology}.svg)`;
       }).join(" ")
+
       : "`none`";
 
     const starsBadge = repo.private ? "`none`" : `![Stars](https://img.shields.io/github/stars/${repo.organization ?? repo.owner}/${repo.name}?style=flat-square)`;
     const forksBadge = repo.private ? "`none`" : `![Forks](https://img.shields.io/github/forks/${repo.organization ?? repo.owner}/${repo.name}?style=flat-square)`;
 
-    table.push(`| ${++count} | [${repo.name}](${repo.url}) |[👀 Online View](https://sobhan-srza.github.io/${repo.name}) | \`${(repo.description_en || repo.description)}\` | ${langBadges} | ${techBadges} | ${starsBadge} | ${forksBadge} |`);
+    table.push(`| ${++count} | [${repo.name}](${repo.url}) | [👀 Online View](https://sobhan-srza.github.io/${repo.name}) | \`${(repo.description_en || repo.description)}\` | ${langBadges} | ${techBadges} | ${starsBadge} | ${forksBadge} |`);
   });
 
   return table.join("\n");

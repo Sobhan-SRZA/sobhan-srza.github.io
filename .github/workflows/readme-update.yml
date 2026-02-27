@@ -1,10 +1,10 @@
 name: Scheduled README Update
 
 on:
-  # push:
-  #   branches: [ "main" ]
-  #   paths:
-  #     - '**'
+  push:
+    branches: [ "main" ]
+    paths:
+      - '**'
       
   schedule:
     - cron: '30 20 * * *' 
