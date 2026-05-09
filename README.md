@@ -50,8 +50,4 @@ I"m open for collaboration or questions! Reach me via:
 - Click the **👀 View** link to see the live hosted version of each project.
 - Star ⭐ and fork 🍴 my repositories if you like them!
 - All projects are responsive and optimized for modern browsers.
-
----
-
-> Made with ❤️ by [Sobhan-SRZA](https://srza.ir)
     
